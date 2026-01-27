@@ -40,7 +40,7 @@ Python
 5. Data visualization (bar charts, pie charts, histograms, etc.)
 6. Insight generation
 ---
-🔍 Key Analysis Performed
+### 🔍 Key Analysis Performed
 📅 Date & Time Processing
 
 1. Converted date columns into proper datetime format
