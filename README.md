@@ -1,11 +1,12 @@
-📊 Data Analysis Project using Python
-📌 Project Overview
+### 📊 Data Analysis Project using Python
+---
+## 📌 Project Overview
 
 This project focuses on exploratory data analysis (EDA) of a dataset using Python and popular data analysis libraries.
 The goal of this project is to clean, analyze, and visualize data to extract meaningful insights and patterns that can support data-driven decision-making.
 The entire analysis was performed using Google Colab, making it easy to run and reproduce.
-
-🎯 Objectives
+---
+## 🎯 Objectives
 
 Understand the structure and characteristics of the dataset
 
@@ -13,8 +14,8 @@ Understand the structure and characteristics of the dataset
 2. Analyze key trends and relationships
 3. Visualize insights using charts and graphs
 4. Strengthen practical skills in Python for Data Analytics
-
-🧰 Tools & Technologies Used
+---
+## 🧰 Tools & Technologies Used
 
 Python
 1. Google Colab
@@ -23,14 +24,14 @@ Python
 4. Matplotlib – data visualization
 5. Seaborn – advanced statistical
 6. Plotly (Interactive charts)
-
-📂 Project Structure
+---
+## 📂 Project Structure
 
 📁 Sales-Data-Analysis
  ├── 📄 analysis.ipynb      # Data analysis & visualization notebook
  ├── 📄 README.md           # Project documentation
-
-🔍 Key Steps Performed
+---
+## 🔍 Key Steps Performed
 
 1. Data loading and inspection
 2. Handling missing and inconsistent values
@@ -38,7 +39,7 @@ Python
 4. Statistical summaries
 5. Data visualization (bar charts, pie charts, histograms, etc.)
 6. Insight generation
-
+---
 🔍 Key Analysis Performed
 📅 Date & Time Processing
 
@@ -47,42 +48,42 @@ Python
 Year
 Month
 Month-Year
-
-📈 Sales Analysis
+---
+## 📈 Sales Analysis
 
 1. Monthly sales trend analysis
 2. Sales analysis by Category
 3. Sales analysis by Sub-Category
 4. Sales analysis by Customer Segment
-
-💰 Profit Analysis
+---
+## 💰 Profit Analysis
 
 1. Monthly profit trend analysis
 2. Profit analysis by Category
 3. Profit analysis by Customer Segment
-
-📊 Advanced Business Metrics
+---
+## 📊 Advanced Business Metrics
 
 1. Sales vs Profit comparison
 2. Sales-to-Profit Ratio analysis to identify:
 3. High-revenue, low-profit areas
 4. Efficient and inefficient segments
-
-📊 Visualizations
+---
+## 📊 Visualizations
 
 1. Line charts for monthly trends
 2. Bar charts for category-wise performance
 3. Interactive Plotly charts for deeper insights
 4. Comparative visualizations for sales vs profit
-
-📈 Insights & Outcomes
+---
+## 📈 Insights & Outcomes
 
 1. Identified key trends and distributions within the dataset
 2. Visualized relationships between important variables
 3. Improved understanding of real-world data behavior
 4. Gained hands-on experience in data analytics workflow
-
-▶️ How to Run
+---
+## ▶️ How to Run
 
 1. Open the notebook using the link below
 2. Run all cells sequentially
@@ -90,26 +91,26 @@ Month-Year
 
 🔗 Google Colab Notebook:
 👉 https://colab.research.google.com/drive/1p937NxNE-228GlmgsYE5RJjEHnCw-gzd?usp=sharing
-
-🚀 Future Enhancements
+---
+## 🚀 Future Enhancements
 
 1. Feature engineering
 2. Machine Learning model integration
 3. Interactive dashboards (Tableau / Power BI)
 4. Advanced statistical analysis
-
-👨‍💻 Author
+---
+## 👨‍💻 Author
 
 Himanshu Singh
 🎓 Data Analytics Enthusiast
 📌 Currently learning Python, DSA, and Data Analysis
 💡 Passionate about turning data into insights
-
-⭐ Support
+---
+## ⭐ Support
 
 If you found this project helpful:
 
-⭐ Star the repository
+## ⭐ Star the repository
 🍴 Fork it
 💬 Share feedback or suggestions
- 
+ ---
