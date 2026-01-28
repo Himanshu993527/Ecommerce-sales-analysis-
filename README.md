@@ -8,7 +8,7 @@ The entire analysis was performed using Google Colab, making it easy to run and 
 ---
 ## 🎯 Objectives
 
-Understand the structure and characteristics of the dataset
+Understand the structure and characteristics of the dataset.
 
 1. Perform data cleaning and preprocessing
 2. Analyze key trends and relationships
